@@ -1,4 +1,4 @@
-$ ContinuousFlappyBird: an experimental framework for research on RL in aDBS
+ContinuousFlappyBird: an experimental framework for research on RL in aDBS
 ================
 
 This repo contains a suite of OpenAI gym-wrapped RL environments, that have similar problem properties than the Parkinson's disease specific aDBS control problem. These environments are
